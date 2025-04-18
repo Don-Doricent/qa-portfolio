@@ -1,43 +1,38 @@
-# QA Portfolio
+# QA Testing Portfolio
 
-This repository showcases my manual QA testing work for a live freelance project: [https://billharrisart.com](https://billharrisart.com). It includes test cases, documented bug reports, and a planned test strategy — all created to reflect real-world QA workflows.
+This repository contains my manual QA testing deliverables for a real freelance client website: [billharrisart.com](https://billharrisart.com). It includes detailed test cases, bug reports with screenshots, and a structured approach to identifying and documenting defects.
 
 ---
 
-## 📁 Contents
+## 🔍 What’s Inside
 
 - **Donald_Doricent_QA_Portfolio.xlsx**
-  - Sheet 1: Test Cases
-  - Sheet 2: Bug Reports
+  - **Test Cases** – Structured test scenarios with expected/actual results
+  - **Bug Reports** – Documented issues with reproduction steps and screenshots
   - Project tested: [billharrisart.com](https://billharrisart.com)
 
 ---
 
-## 🧪 Testing Focus
+## 💡 Focus Areas
 
-- Form validation (email, blank fields)
-- UX/Visual behavior on submission
-- Exploratory testing
-- Basic bug reporting and test documentation
-
----
-
-## 🛠️ Tools Used
-
-- Google Sheets (exported as Excel)
-- Chrome DevTools
-- Guru99 for QA methodology
+- Form validation (invalid email, required fields)
+- UX behavior and edge cases
+- Real-world exploratory testing
+- Clear documentation for developer handoff
 
 ---
 
-## 🚀 In Progress
+## ⚙️ Tools & Environment
 
-- Full test plan for billharrisart.com
-- API testing with Postman
-- Additional bug reports from exploratory tests
+- Google Sheets (structured into Excel)
+- Browser DevTools (Chrome, Windows 11)
+- Manual exploratory techniques
 
 ---
 
-## About Me
+## 🧠 Why This Repo Exists
 
-I'm a freelance web developer transitioning into QA testing. This repo is part of my hands-on learning path, and everything here was created as part of a real freelance engagement. Feel free to connect!
+This portfolio was built to show not just that I understand QA workflows — but that I can apply them to real projects and communicate bugs clearly to technical and non-technical audiences.
+
+All work here is based on an actual client site, and reflects how I approach testing with intention, attention to detail, and user impact in mind.
+
