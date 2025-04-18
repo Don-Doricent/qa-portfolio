@@ -1,4 +1,4 @@
-# QA Portfolio – Donald Doricent
+# QA Portfolio
 
 This repository showcases my manual QA testing work for a live freelance project: [https://billharrisart.com](https://billharrisart.com). It includes test cases, documented bug reports, and a planned test strategy — all created to reflect real-world QA workflows.
 
