@@ -1,38 +1,81 @@
-# QA Testing Portfolio
+# 🧪 QA Testing Portfolio
 
-This repository contains my manual QA testing deliverables for a real freelance client website: [billharrisart.com](https://billharrisart.com). It includes detailed test cases, bug reports with screenshots, and a structured approach to identifying and documenting defects.
+This portfolio highlights my manual QA testing work across multiple real-world projects. It includes structured test cases, bug reports with screenshots, and detailed QA documentation built to support dev teams and stakeholder feedback.
 
----
-
-## 🔍 What’s Inside
-
-- **Donald_Doricent_QA_Portfolio.xlsx**
-  - **Test Cases** – Structured test scenarios with expected/actual results
-  - **Bug Reports** – Documented issues with reproduction steps and screenshots
-  - Project tested: [billharrisart.com](https://billharrisart.com)
+I'm currently leveling up my QA skill set with API testing and preparing for the ISTQB Foundation certification.
 
 ---
 
-## 💡 Focus Areas
+## 🔧 Tools I Use
 
-- Form validation (invalid email, required fields)
-- UX behavior and edge cases
-- Real-world exploratory testing
-- Clear documentation for developer handoff
-
----
-
-## ⚙️ Tools & Environment
-
-- Google Sheets (structured into Excel)
-- Browser DevTools (Chrome, Windows 11)
-- Manual exploratory techniques
+- Slack  
+- Chrome DevTools  
+- Google Drive  
+- Git & GitHub  
+- Markdown  
+- Postman  
+- Google Sheets + Excel  
 
 ---
 
-## 🧠 Why This Repo Exists
+## 💬 Soft Skills
 
-This portfolio was built to show not just that I understand QA workflows — but that I can apply them to real projects and communicate bugs clearly to technical and non-technical audiences.
+- Clear written and verbal communication  
+- Collaborative across technical and non-technical teams  
+- Detail-oriented with a strong UX eye  
+- Organized, responsive, and deadline-conscious  
+- Proactive bug tracking and defect communication  
 
-All work here is based on an actual client site, and reflects how I approach testing with intention, attention to detail, and user impact in mind.
+---
 
+## 📂 Samples
+
+### 🔸 [billharrisart.com](https://billharrisart.com)
+- 🔗 [Test Cases + Bug Reports (Excel)](https://github.com/Don-Doricent/qa-portfolio/blob/main/Donald_Doricent_QA_Portfolio.xlsx)  
+- 📝 Focus areas: form validation, UX behavior, edge case inputs  
+- 🧩 Tools used: Sheets, DevTools, screenshots, exploratory testing  
+
+### 🔹 [Portfolio Website](https://dondoricent.netlify.app)
+- 🔧 Test coverage in progress: navigation, layout consistency, responsiveness
+
+---
+
+## 🎓 Courses & Certifications
+
+- 🏁 [ISTQB Foundation Level Certification](https://www.istqb.org/) (in progress)
+- 100Devs Full Stack Developer Program (in progress)
+- Guru99 Software Testing Series (complete)
+
+---
+
+## 📖 Blogs & Podcasts
+
+🎧 [The Testing Show](https://www.stickyminds.com/resources/podcast/testing-show)  
+📖 [Ministry of Testing Blog](https://www.ministryoftesting.com/articles)
+
+---
+
+## 💼 Experience
+
+**QA Testing (Project-Based)**  
+- Created structured test cases and detailed bug reports  
+- Validated real-world websites through exploratory and scenario-based testing  
+- Documented visual and functional issues for developer handoff
+
+**Web Development (100Devs)**  
+- Frontend HTML/CSS/JS projects  
+- Built, deployed, and tested personal and client-facing websites  
+- Focused on responsive layouts and basic form logic
+
+**Sales & SDR Roles**  
+- 4+ years in tech sales and prospecting  
+- Strong communication, follow-through, and fast-paced execution  
+- Transferring those skills into QA workflow communication and reporting
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/donald-doricent/)  
+- 🌐 [Portfolio](https://dondoricent.netlify.app/)  
+- 📬 ddoricent97@gmail.com  
