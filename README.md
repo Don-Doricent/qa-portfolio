@@ -31,7 +31,7 @@ I'm currently leveling up my QA skill set with API testing and preparing for the
 ## 📂 Samples
 
 ### 🔸 [billharrisart.com](https://billharrisart.com)
-- 🔗 [Test Cases + Bug Reports (Excel)](https://github.com/Don-Doricent/qa-portfolio/blob/main/Donald_Doricent_QA_Portfolio.xlsx)  
+- 🔗 [Test Cases + Bug Reports (Excel)](https://[github.com/Don-Doricent/qa-portfolio/blob/main/Donald_Doricent_QA_Portfolio.xlsx](https://docs.google.com/spreadsheets/d/1V6L-FF0_f2q2MtFhgEBzi2_wfXUS019ahabjIb7TWvs/edit?usp=sharing))    
 - 📝 Focus areas: form validation, UX behavior, edge case inputs  
 - 🧩 Tools used: Sheets, DevTools, screenshots, exploratory testing  
 
