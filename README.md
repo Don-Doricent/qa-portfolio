@@ -1,6 +1,7 @@
 # 🧪 QA Testing Portfolio
 
-This portfolio highlights my manual QA testing work across multiple real-world projects. It includes structured test cases, bug reports with screenshots, and detailed QA documentation built to support dev teams and stakeholder feedback.
+This portfolio highlights my manual QA testing work across multiple real-world projects.  
+It includes structured test cases, bug reports with screenshots, and detailed QA documentation built to support dev teams and stakeholder feedback.
 
 I'm currently leveling up my QA skill set with API testing and preparing for the ISTQB Foundation certification.
 
@@ -30,13 +31,15 @@ I'm currently leveling up my QA skill set with API testing and preparing for the
 
 ## 📂 Samples
 
-### 🔸 [billharrisart.com](https://billharrisart.com)
-- 🔗 [Test Cases + Bug Reports (Excel)](https://[github.com/Don-Doricent/qa-portfolio/blob/main/Donald_Doricent_QA_Portfolio.xlsx](https://docs.google.com/spreadsheets/d/1V6L-FF0_f2q2MtFhgEBzi2_wfXUS019ahabjIb7TWvs/edit?usp=sharing))    
-- 📝 Focus areas: form validation, UX behavior, edge case inputs  
-- 🧩 Tools used: Sheets, DevTools, screenshots, exploratory testing  
+### 📂 [Bill Harris Art Website QA Project](./BillHarrisWebsite/)
+- 📄 [View Test Cases](./BillHarrisWebsite/Test-Cases/BillHarris_TestCases.xlsx)
+- 📄 [View Bug Reports](./BillHarrisWebsite/Bug-Reports/BillHarris_BugReports.xlsx)
+- 📝 Focus areas: form validation, UX behavior, edge case handling
+- 🧩 Tools used: Google Sheets, Excel, DevTools, exploratory testing
 
-### 🔹 [Portfolio Website](https://dondoricent.netlify.app)
+### 📂 [Portfolio Website QA Project](https://dondoricent.netlify.app)
 - 🔧 Test coverage in progress: navigation, layout consistency, responsiveness
+- 🧩 Tools used: Chrome DevTools, manual exploratory testing
 
 ---
 
@@ -44,7 +47,7 @@ I'm currently leveling up my QA skill set with API testing and preparing for the
 
 - 🏁 [ISTQB Foundation Level Certification](https://www.istqb.org/) (in progress)
 - 100Devs Full Stack Developer Program (in progress)
-- Guru99 Software Testing Series (complete)
+- Guru99 Software Testing Series (completed)
 
 ---
 
