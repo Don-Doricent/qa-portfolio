@@ -7,7 +7,7 @@ I am currently preparing for the ISTQB Foundation Level certification and expand
 
 ---
 
-## 🧠 Skills Summary
+## 🧠  Skills Summary
 
 - Test case creation and execution
 - Bug reporting with reproduction steps and environment details
