@@ -17,6 +17,7 @@ I am currently preparing for the ISTQB Foundation Level certification and expand
 - Basic API request testing (learning phase)
 - Organized defect tracking and reporting
 
+
 ---
 
 ## 🧪 Testing Tools
