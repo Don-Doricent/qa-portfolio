@@ -1,4 +1,4 @@
-# 🧪 QA Testing Portfolio
+# 🧪 QA Testing Portfolio 
 
 This portfolio highlights my manual QA testing work across real-world projects.  
 It includes structured test cases, detailed bug reports, and clear documentation built to support developer teams and stakeholder feedback.
